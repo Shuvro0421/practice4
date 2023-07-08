@@ -55,6 +55,11 @@ body{
     font-size: 18px;
 }
 /* Main section */
+.main-container{
+    
+    margin: 120px;
+}
+
 .main-top{
     display: flex;
     align-items: center;
@@ -99,4 +104,5 @@ ul{
 li{
     margin-top: 8px;
 }
+/* Footer */
 
